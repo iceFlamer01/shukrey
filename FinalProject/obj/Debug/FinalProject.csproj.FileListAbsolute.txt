@@ -1,0 +1,79 @@
+C:\Users\shukry espanioly\Desktop\university\final project\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\shukry espanioly\Desktop\university\final project\FinalProject\FinalProject\obj\Debug\FinalProject.Num_pad.resources
+C:\Users\shukry espanioly\Desktop\university\final project\FinalProject\FinalProject\obj\Debug\FinalProject.Password_pad.resources
+C:\Users\shukry espanioly\Desktop\university\final project\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\shukry espanioly\Desktop\university\final project\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\shukry espanioly\Desktop\university\final project\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\shukry espanioly\Desktop\university\final project\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\shukry espanioly\Desktop\university\final project\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\shukry espanioly\Desktop\university\final project\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\shukry espanioly\Desktop\university\final project\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\shukry espanioly\Desktop\university\final project\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\shukry espanioly\Desktop\university\final project\FinalProject\FinalProject\obj\Debug\FinalProject.Manager_GUI.resources
+C:\Users\shukry espanioly\Desktop\university\final project\FinalProject\FinalProject\obj\Debug\FinalProject.Workers_GUI_main.resources
+C:\Users\shukry espanioly\Desktop\university\final project\FinalProject\FinalProject\obj\Debug\FinalProject.Manager_start_page.resources
+C:\Users\shukry espanioly\Desktop\university\final project\FinalProject\FinalProject\obj\Debug\FinalProject.Product_update.resources
+C:\Users\shukry espanioly\Desktop\university\final project\FinalProject\FinalProject\obj\Debug\FinalProject.Worker_update.resources
+C:\Users\user\Desktop\FinalProj\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\user\Desktop\FinalProj\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\user\Desktop\FinalProj\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\user\Desktop\FinalProj\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\FinalProj\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\FinalProj\FinalProject\obj\Debug\FinalProject.Manager_GUI.resources
+C:\Users\user\Desktop\FinalProj\FinalProject\obj\Debug\FinalProject.Manager_start_page.resources
+C:\Users\user\Desktop\FinalProj\FinalProject\obj\Debug\FinalProject.Num_pad.resources
+C:\Users\user\Desktop\FinalProj\FinalProject\obj\Debug\FinalProject.Password_pad.resources
+C:\Users\user\Desktop\FinalProj\FinalProject\obj\Debug\FinalProject.Product_update.resources
+C:\Users\user\Desktop\FinalProj\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\user\Desktop\FinalProj\FinalProject\obj\Debug\FinalProject.Workers_GUI_main.resources
+C:\Users\user\Desktop\FinalProj\FinalProject\obj\Debug\FinalProject.Worker_update.resources
+C:\Users\user\Desktop\FinalProj\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\FinalProj\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FinalProj\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\user\Desktop\FinalProj\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\user\Desktop\FinalProj\FinalProject\obj\Debug\FinalProject.Order_Show.resources
+C:\Users\user\Desktop\FinalProj\FinalProject\obj\Debug\FinalProject.Payment.resources
+C:\Users\user\Desktop\FinalProj\FinalProject\obj\Debug\FinalProject.PrintOrder.resources
+C:\Users\user\Desktop\FinalProj\FinalProject\obj\Debug\FinalProject.worker_shift.resources
+F:\FinalProj\FinalProject\bin\Debug\FinalProject.exe.config
+F:\FinalProj\FinalProject\bin\Debug\FinalProject.exe
+F:\FinalProj\FinalProject\bin\Debug\FinalProject.pdb
+F:\FinalProj\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+F:\FinalProj\FinalProject\obj\Debug\FinalProject.Manager_GUI.resources
+F:\FinalProj\FinalProject\obj\Debug\FinalProject.Manager_start_page.resources
+F:\FinalProj\FinalProject\obj\Debug\FinalProject.Order_Show.resources
+F:\FinalProj\FinalProject\obj\Debug\FinalProject.Num_pad.resources
+F:\FinalProj\FinalProject\obj\Debug\FinalProject.Password_pad.resources
+F:\FinalProj\FinalProject\obj\Debug\FinalProject.Payment.resources
+F:\FinalProj\FinalProject\obj\Debug\FinalProject.PrintOrder.resources
+F:\FinalProj\FinalProject\obj\Debug\FinalProject.Product_update.resources
+F:\FinalProj\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+F:\FinalProj\FinalProject\obj\Debug\FinalProject.Workers_GUI_main.resources
+F:\FinalProj\FinalProject\obj\Debug\FinalProject.worker_shift.resources
+F:\FinalProj\FinalProject\obj\Debug\FinalProject.Worker_update.resources
+F:\FinalProj\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+F:\FinalProj\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+F:\FinalProj\FinalProject\obj\Debug\FinalProject.exe
+F:\FinalProj\FinalProject\obj\Debug\FinalProject.pdb
+F:\FinalProj\FinalProject\obj\Debug\FinalProject.Main_Pages.NewTblGetInfo.resources
+G:\FinalProj\FinalProject\bin\Debug\FinalProject.exe.config
+G:\FinalProj\FinalProject\bin\Debug\FinalProject.exe
+G:\FinalProj\FinalProject\bin\Debug\FinalProject.pdb
+G:\FinalProj\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+G:\FinalProj\FinalProject\obj\Debug\FinalProject.Main_Pages.NewTblGetInfo.resources
+G:\FinalProj\FinalProject\obj\Debug\FinalProject.Manager_GUI.resources
+G:\FinalProj\FinalProject\obj\Debug\FinalProject.Manager_start_page.resources
+G:\FinalProj\FinalProject\obj\Debug\FinalProject.Order_Show.resources
+G:\FinalProj\FinalProject\obj\Debug\FinalProject.Num_pad.resources
+G:\FinalProj\FinalProject\obj\Debug\FinalProject.Password_pad.resources
+G:\FinalProj\FinalProject\obj\Debug\FinalProject.Payment.resources
+G:\FinalProj\FinalProject\obj\Debug\FinalProject.PrintOrder.resources
+G:\FinalProj\FinalProject\obj\Debug\FinalProject.Product_update.resources
+G:\FinalProj\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+G:\FinalProj\FinalProject\obj\Debug\FinalProject.Workers_GUI_main.resources
+G:\FinalProj\FinalProject\obj\Debug\FinalProject.Worker_shift.resources
+G:\FinalProj\FinalProject\obj\Debug\FinalProject.Worker_update.resources
+G:\FinalProj\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+G:\FinalProj\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+G:\FinalProj\FinalProject\obj\Debug\FinalProject.exe
+G:\FinalProj\FinalProject\obj\Debug\FinalProject.pdb
